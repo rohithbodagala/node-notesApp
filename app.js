@@ -25,7 +25,7 @@ yargs.command({
 
 })
 
-//Create remove command
+//Create remove commands
 yargs.command({
     command:'remove',
     describe:'Remove a note',
